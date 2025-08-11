@@ -16,7 +16,7 @@ Echo revolutionizes quantitative trading by combining real-time market data with
 - **Interactive Dashboard**: Real-time visualization of market data and portfolio performance
 
 ```
-tradesentinel/
+Echo/
 ├── docker/
 │   ├── Dockerfile.news-collector
 │   ├── Dockerfile.api
